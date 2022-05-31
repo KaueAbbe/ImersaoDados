@@ -47,6 +47,11 @@ Por fim foi criado dois modelos de Machine Learning. Um baseado em regressão li
 1. Atualizar a análise exploratória dos dados e implementar a mudança no modelo
 2. Correção o erro de não mostrar o mapa de São Paulo separado por renda dos setores censitários.
 
+<h2 align ="center"> Links e Referências:</h2>
+
+1. <a href=https://medium.com/creditas-tech/dados-georreferenciados-exploração-e-visualização-com-python-edd51e7c53da>Medium - Dados Georreferenciados</a>
+2. <a href=https://www.tylervigen.com/spurious-correlations>Exemplos de Correlação</a>
+
 
 <h2 align ="center">Autor</h2>
 
