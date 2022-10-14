@@ -1,5 +1,19 @@
 <h1 align="center"> Bem vinda(o) ao Imersão Dados 04 - Alura😊 </h1>
 
+# Imersão Dados 04 
+
+Rápida descrição do objetivo de fazer esse projeto
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Imersão Dados 04**
+| :label: Tecnologias | Python, Jupyter Notebook, Geopandas
+| :rocket: URL         | https://github.com/KaueAbbe/ImersaoDados
+| :fire: Desafio     | https://www.alura.com.br/imersao-dados-4
+
+
+## Detalhes do projeto
+
 ![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=DESENVOLVIMENTO&color=<COLOR>)
 
 <h2 align ="center"> Objetivo da imersão: Predição de Preços de Imóveis em São Paulo🤔</h2>
