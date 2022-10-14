@@ -2,7 +2,7 @@
 
 # Imersão Dados 04 
 
-Rápida descrição do objetivo de fazer esse projeto
+Como realizar predição de preços de imóveis utilizados vários bancos de dados
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
