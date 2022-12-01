@@ -4,7 +4,7 @@
 
 Como realizar predição de preços de imóveis utilizados vários bancos de dados
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev |   [Minha Vitrine](https://cursos.alura.com.br/vitrinedev/kaueabbehausen)   |
 | -------------  | --- |
 | :sparkles: Nome        | **Imersão Dados 04**
 | :label: Tecnologias | Python, Jupyter Notebook, Geopandas
